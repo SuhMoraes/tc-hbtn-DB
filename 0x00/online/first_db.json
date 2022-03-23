@@ -2,8 +2,8 @@
   {"id":1,"nome":"Betty","email":"betty@techcamps.com","telefone":12345678},
   {"id":2,"nome":"Mendonça","email":"mendoca@email.com","telefone":22334455},
   {"id":3,"nome":"Luiza Moreita","email":"lu.i.za@email.com","telefone":11336677},
-  {"id":4,"nome":"Sabrina Ferreira","email":"sa.ferreira@email.com","telefone":55993311}
-,{"id":5,"nome":"Camilo Brandão","email":"brandao@email.com","telefone":99234567},
+  {"id":4,"nome":"Sabrina Ferreira","email":"sa.ferreira@email.com","telefone":55993311},
+  {"id":5,"nome":"Camilo Brandão","email":"brandao@email.com","telefone":99234567},
   {"id":6,"nome":"Augusto Alves","email":"a.augusto@email.com","telefone":87654321},
   {"id":7,"nome":"Renan","email":"renan@techcamps","telefone":689703784},
   {"id":8,"nome":"Levi","email":"levi@techcamps","telefone":4797737817},
