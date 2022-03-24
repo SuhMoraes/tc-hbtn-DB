@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0223b49b-f457-4e88-a065-fc2338929557" name="Changes" comment="">
+    <list default="true" id="8f77cff7-fdde-408c-bc52-8a67f922a695" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../criar/first_db.db" beforeDir="false" afterPath="$PROJECT_DIR$/../criar/first_db.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tabela/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tabela/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tabela/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tabela/.idea/tabela.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tabela/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tabela/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tabela/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +21,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="26msOMfyVAuIbZpYXcSExaUOYIe" />
+  <component name="ProjectId" id="26myMqQY315gLTiq6LPPp37nnMY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -29,11 +34,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0223b49b-f457-4e88-a065-fc2338929557" name="Changes" comment="" />
-      <created>1648040063173</created>
+      <changelist id="8f77cff7-fdde-408c-bc52-8a67f922a695" name="Changes" comment="" />
+      <created>1648043012261</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1648040063173</updated>
+      <updated>1648043012261</updated>
     </task>
     <servers />
   </component>
