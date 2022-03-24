@@ -3,14 +3,14 @@ import java.sql.DriverManager;
 import java.util.Enumeration;
 
 public class PrintJDBCDrivers {
+
     public static void main(String[] args) {
         System.out.println("List of loaded JDBC drivers");
-        for (Enumeration<Driver> e = DriverManager.getDrivers(); e.hasMoreElements(); ) {
+        for (Enumeration<Driver> e = DriverManager.getDrivers(); e.hasMoreElements();) {
             Driver driver = e.nextElement();
             print(driver);
         }
     }
-
     public static void print(Driver driver) {
         String className = driver.getClass().getName();
         int majorVersion = driver.getMajorVersion();
@@ -21,5 +21,4 @@ public class PrintJDBCDrivers {
         System.out.println("Driver Minor Version: " + minorVersion);
         System.out.println("----------------------------------------");
     }
-
 }
