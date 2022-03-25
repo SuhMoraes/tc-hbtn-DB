@@ -7,6 +7,16 @@ public class Cliente {
     private String cpf;
     private String rg;
 
+    public Cliente() {
+    }
+
+    public Cliente(String nome, Integer idade, String cpf, String rg) {
+        this.nome = nome;
+        this.idade = idade;
+        this.cpf = cpf;
+        this.rg = rg;
+    }
+
     public String getNome() {
         return nome;
     }
